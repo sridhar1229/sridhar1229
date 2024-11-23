@@ -20,5 +20,5 @@ Hi there! I’m Sridhar Madeshwaran 🎓, a final-year student in Electronics an
   🎯 My goal is to contribute to impactful projects and tackle challenging problems with creative solutions.
 
 📬 Let’s Connect
-LinkedIn: linkedin.com/in/sridhar-m-9ab2012b4
+LinkedIn: [linkedin.com/in/sridhar-m-9ab2012b4](https://www.linkedin.com/in/sridhar-m-9ab2012b4)
 Email: sridhar.m2912@gmail.com
